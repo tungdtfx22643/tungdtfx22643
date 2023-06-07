@@ -1,0 +1,15 @@
+.bg-img1 {
+  background-color: #000;
+  background-image: url("..//img/moon.jpg");
+  object-fit: contain;
+}
+.bg-img2 {
+  background-color: #000;
+  background-image: url("..//img/nightsky.jpg");
+  object-fit: contain;
+}
+.bg-img3 {
+  background-color: #000;
+  background-image: url("../img/star.jpg");
+  object-fit: contain;
+}
